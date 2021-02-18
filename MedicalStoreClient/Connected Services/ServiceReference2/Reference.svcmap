@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7e52a18d-bba9-4617-91e5-cc9e4910dc61" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/MedicalStore/MedicalSystemService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="cc0948ce-3437-414b-801f-8d2da103cc4f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/MedicalStore/MedicalSystemService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="7d38348e-0e1f-4fdc-a267-ff5d3ecd5348" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/MedicalStore/MedicalSystemService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="75109a5d-388c-44ea-82f7-524f409f8887" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/MedicalStore/MedicalSystemService/mex" />
+    <MetadataFile FileName="service2.xsd" MetadataType="Schema" ID="94f251cf-c093-4fde-aefc-5dfb4c18ac2f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/MedicalStore/MedicalSystemService/mex" />
+    <MetadataFile FileName="MedicalStore.xsd" MetadataType="Schema" ID="d4a9a65e-2791-4cd7-b853-353755e47898" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/MedicalStore/MedicalSystemService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
